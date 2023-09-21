@@ -1,0 +1,3 @@
+:funcl
+start
+goto funcl
